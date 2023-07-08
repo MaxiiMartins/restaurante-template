@@ -42,8 +42,8 @@ export const socialData = [
   { href: '/', icon: <FaYoutube /> },
   { href: '/', icon: <FaFacebookF /> },
   { href: '/', icon: <FaInstagram /> },
-  { href: '/', icon: <FaPinterestP /> },
-  { href: '/', icon: <FaDiscord /> },
+  // { href: '/', icon: <FaPinterestP /> },
+  // { href: '/', icon: <FaDiscord /> },
 ];
 
 export const aboutData = {
